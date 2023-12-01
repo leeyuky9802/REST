@@ -1,0 +1,1502 @@
+graph: {
+node: { title: "N: 0
+T: 0" }
+node: { title: "N: 1
+T: 3" }
+node: { title: "N: 2
+T: 3" }
+node: { title: "N: 3
+T: 1" }
+node: { title: "N: 4
+T: 2" }
+node: { title: "N: 5
+T: 2" }
+node: { title: "N: 6
+T: 1" }
+node: { title: "N: 7
+T: 0" }
+node: { title: "N: 8
+T: 1" }
+node: { title: "N: 9
+T: 3" }
+node: { title: "N: 10
+T: 2" }
+node: { title: "N: 11
+T: 0" }
+node: { title: "N: 12
+T: 1" }
+node: { title: "N: 13
+T: 3" }
+node: { title: "N: 14
+T: 3" }
+node: { title: "N: 15
+T: 1" }
+node: { title: "N: 16
+T: 2" }
+node: { title: "N: 17
+T: 0" }
+node: { title: "N: 18
+T: 2" }
+node: { title: "N: 19
+T: 3" }
+node: { title: "N: 20
+T: 0" }
+node: { title: "N: 21
+T: 1" }
+node: { title: "N: 22
+T: 3" }
+node: { title: "N: 23
+T: 0" }
+node: { title: "N: 24
+T: 1" }
+node: { title: "N: 25
+T: 2" }
+node: { title: "N: 26
+T: 1" }
+node: { title: "N: 27
+T: 2" }
+node: { title: "N: 28
+T: 2" }
+node: { title: "N: 29
+T: 3" }
+node: { title: "N: 30
+T: 1" }
+node: { title: "N: 31
+T: 2" }
+node: { title: "N: 32
+T: 0" }
+node: { title: "N: 33
+T: 2" }
+node: { title: "N: 34
+T: 2" }
+node: { title: "N: 35
+T: 1" }
+node: { title: "N: 36
+T: 2" }
+node: { title: "N: 37
+T: 3" }
+node: { title: "N: 38
+T: 3" }
+node: { title: "N: 39
+T: 2" }
+node: { title: "N: 40
+T: 0" }
+node: { title: "N: 41
+T: 3" }
+node: { title: "N: 42
+T: 0" }
+node: { title: "N: 43
+T: 1" }
+node: { title: "N: 44
+T: 0" }
+node: { title: "N: 45
+T: 0" }
+node: { title: "N: 46
+T: 1" }
+node: { title: "N: 47
+T: 1" }
+node: { title: "N: 48
+T: 1" }
+node: { title: "N: 49
+T: 2" }
+node: { title: "N: 50
+T: 0" }
+node: { title: "N: 51
+T: 1" }
+node: { title: "N: 52
+T: 2" }
+node: { title: "N: 53
+T: 0" }
+node: { title: "N: 54
+T: 2" }
+node: { title: "N: 55
+T: 1" }
+node: { title: "N: 56
+T: 1" }
+node: { title: "N: 57
+T: 2" }
+node: { title: "N: 58
+T: 1" }
+node: { title: "N: 59
+T: 3" }
+node: { title: "N: 60
+T: 2" }
+node: { title: "N: 61
+T: 0" }
+node: { title: "N: 62
+T: 3" }
+node: { title: "N: 63
+T: 1" }
+node: { title: "N: 64
+T: 1" }
+node: { title: "N: 65
+T: 2" }
+node: { title: "N: 66
+T: 0" }
+node: { title: "N: 67
+T: 0" }
+node: { title: "N: 68
+T: 3" }
+node: { title: "N: 69
+T: 2" }
+node: { title: "N: 70
+T: 1" }
+node: { title: "N: 71
+T: 2" }
+node: { title: "N: 72
+T: 0" }
+node: { title: "N: 73
+T: 0" }
+node: { title: "N: 74
+T: 2" }
+node: { title: "N: 75
+T: 0" }
+node: { title: "N: 76
+T: 1" }
+node: { title: "N: 77
+T: 0" }
+node: { title: "N: 78
+T: 1" }
+node: { title: "N: 79
+T: 1" }
+node: { title: "N: 80
+T: 3" }
+node: { title: "N: 81
+T: 2" }
+node: { title: "N: 82
+T: 2" }
+node: { title: "N: 83
+T: 1" }
+node: { title: "N: 84
+T: 1" }
+node: { title: "N: 85
+T: 3" }
+node: { title: "N: 86
+T: 1" }
+node: { title: "N: 87
+T: 3" }
+node: { title: "N: 88
+T: 3" }
+node: { title: "N: 89
+T: 3" }
+node: { title: "N: 90
+T: 2" }
+node: { title: "N: 91
+T: 1" }
+node: { title: "N: 92
+T: 2" }
+node: { title: "N: 93
+T: 0" }
+node: { title: "N: 94
+T: 1" }
+node: { title: "N: 95
+T: 0" }
+node: { title: "N: 96
+T: 1" }
+node: { title: "N: 97
+T: 1" }
+node: { title: "N: 98
+T: 1" }
+node: { title: "N: 99
+T: 1" }
+node: { title: "N: 100
+T: 0" }
+node: { title: "N: 101
+T: 2" }
+node: { title: "N: 102
+T: 3" }
+node: { title: "N: 103
+T: 2" }
+node: { title: "N: 104
+T: 3" }
+node: { title: "N: 105
+T: 2" }
+node: { title: "N: 106
+T: 0" }
+node: { title: "N: 107
+T: 1" }
+node: { title: "N: 108
+T: 1" }
+node: { title: "N: 109
+T: 0" }
+node: { title: "N: 110
+T: 1" }
+node: { title: "N: 111
+T: 3" }
+node: { title: "N: 112
+T: 0" }
+node: { title: "N: 113
+T: 3" }
+node: { title: "N: 114
+T: 3" }
+node: { title: "N: 115
+T: 3" }
+node: { title: "N: 116
+T: 2" }
+node: { title: "N: 117
+T: 0" }
+node: { title: "N: 118
+T: 0" }
+node: { title: "N: 119
+T: 1" }
+node: { title: "N: 120
+T: 0" }
+node: { title: "N: 121
+T: 0" }
+node: { title: "N: 122
+T: 0" }
+node: { title: "N: 123
+T: 1" }
+node: { title: "N: 124
+T: 3" }
+node: { title: "N: 125
+T: 3" }
+node: { title: "N: 126
+T: 3" }
+node: { title: "N: 127
+T: 2" }
+node: { title: "N: 128
+T: 3" }
+node: { title: "N: 129
+T: 0" }
+node: { title: "N: 130
+T: 0" }
+node: { title: "N: 131
+T: 0" }
+node: { title: "N: 132
+T: 2" }
+node: { title: "N: 133
+T: 1" }
+node: { title: "N: 134
+T: 3" }
+node: { title: "N: 135
+T: 3" }
+node: { title: "N: 136
+T: 2" }
+node: { title: "N: 137
+T: 0" }
+node: { title: "N: 138
+T: 3" }
+node: { title: "N: 139
+T: 1" }
+node: { title: "N: 140
+T: 1" }
+node: { title: "N: 141
+T: 0" }
+node: { title: "N: 142
+T: 2" }
+node: { title: "N: 143
+T: 1" }
+node: { title: "N: 144
+T: 0" }
+node: { title: "N: 145
+T: 3" }
+node: { title: "N: 146
+T: 1" }
+node: { title: "N: 147
+T: 3" }
+node: { title: "N: 148
+T: 3" }
+node: { title: "N: 149
+T: 2" }
+node: { title: "N: 150
+T: 3" }
+node: { title: "N: 151
+T: 2" }
+node: { title: "N: 152
+T: 2" }
+node: { title: "N: 153
+T: 2" }
+node: { title: "N: 154
+T: 0" }
+node: { title: "N: 155
+T: 3" }
+node: { title: "N: 156
+T: 2" }
+node: { title: "N: 157
+T: 1" }
+node: { title: "N: 158
+T: 3" }
+node: { title: "N: 159
+T: 2" }
+node: { title: "N: 160
+T: 3" }
+node: { title: "N: 161
+T: 3" }
+node: { title: "N: 162
+T: 0" }
+node: { title: "N: 163
+T: 3" }
+node: { title: "N: 164
+T: 1" }
+node: { title: "N: 165
+T: 0" }
+node: { title: "N: 166
+T: 2" }
+node: { title: "N: 167
+T: 3" }
+node: { title: "N: 168
+T: 3" }
+node: { title: "N: 169
+T: 0" }
+node: { title: "N: 170
+T: 3" }
+node: { title: "N: 171
+T: 2" }
+node: { title: "N: 172
+T: 3" }
+node: { title: "N: 173
+T: 2" }
+node: { title: "N: 174
+T: 3" }
+node: { title: "N: 175
+T: 2" }
+node: { title: "N: 176
+T: 0" }
+node: { title: "N: 177
+T: 2" }
+node: { title: "N: 178
+T: 0" }
+node: { title: "N: 179
+T: 2" }
+node: { title: "N: 180
+T: 0" }
+node: { title: "N: 181
+T: 1" }
+node: { title: "N: 182
+T: 0" }
+node: { title: "N: 183
+T: 0" }
+node: { title: "N: 184
+T: 3" }
+node: { title: "N: 185
+T: 2" }
+node: { title: "N: 186
+T: 0" }
+node: { title: "N: 187
+T: 0" }
+node: { title: "N: 188
+T: 2" }
+node: { title: "N: 189
+T: 0" }
+node: { title: "N: 190
+T: 2" }
+node: { title: "N: 191
+T: 0" }
+node: { title: "N: 192
+T: 0" }
+node: { title: "N: 193
+T: 1" }
+node: { title: "N: 194
+T: 0" }
+node: { title: "N: 195
+T: 3" }
+node: { title: "N: 196
+T: 3" }
+node: { title: "N: 197
+T: 0" }
+node: { title: "N: 198
+T: 3" }
+node: { title: "N: 199
+T: 0" }
+node: { title: "N: 200
+T: 1" }
+node: { title: "N: 201
+T: 0" }
+node: { title: "N: 202
+T: 1" }
+node: { title: "N: 203
+T: 2" }
+node: { title: "N: 204
+T: 1" }
+node: { title: "N: 205
+T: 1" }
+node: { title: "N: 206
+T: 1" }
+node: { title: "N: 207
+T: 1" }
+node: { title: "N: 208
+T: 1" }
+node: { title: "N: 209
+T: 0" }
+node: { title: "N: 210
+T: 0" }
+node: { title: "N: 211
+T: 0" }
+node: { title: "N: 212
+T: 3" }
+node: { title: "N: 213
+T: 3" }
+node: { title: "N: 214
+T: 3" }
+node: { title: "N: 215
+T: 0" }
+node: { title: "N: 216
+T: 0" }
+node: { title: "N: 217
+T: 3" }
+node: { title: "N: 218
+T: 0" }
+node: { title: "N: 219
+T: 2" }
+node: { title: "N: 220
+T: 1" }
+node: { title: "N: 221
+T: 3" }
+node: { title: "N: 222
+T: 1" }
+node: { title: "N: 223
+T: 1" }
+node: { title: "N: 224
+T: 1" }
+node: { title: "N: 225
+T: 0" }
+node: { title: "N: 226
+T: 0" }
+node: { title: "N: 227
+T: 3" }
+node: { title: "N: 228
+T: 0" }
+node: { title: "N: 229
+T: 3" }
+node: { title: "N: 230
+T: 3" }
+node: { title: "N: 231
+T: 0" }
+node: { title: "N: 232
+T: 1" }
+node: { title: "N: 233
+T: 0" }
+node: { title: "N: 234
+T: 3" }
+node: { title: "N: 235
+T: 1" }
+node: { title: "N: 236
+T: 1" }
+node: { title: "N: 237
+T: 1" }
+node: { title: "N: 238
+T: 0" }
+node: { title: "N: 239
+T: 0" }
+node: { title: "N: 240
+T: 1" }
+node: { title: "N: 241
+T: 0" }
+node: { title: "N: 242
+T: 3" }
+node: { title: "N: 243
+T: 3" }
+node: { title: "N: 244
+T: 1" }
+node: { title: "N: 245
+T: 3" }
+node: { title: "N: 246
+T: 1" }
+node: { title: "N: 247
+T: 3" }
+node: { title: "N: 248
+T: 3" }
+node: { title: "N: 249
+T: 3" }
+node: { title: "N: 250
+T: 2" }
+node: { title: "N: 251
+T: 3" }
+node: { title: "N: 252
+T: 1" }
+node: { title: "N: 253
+T: 2" }
+node: { title: "N: 254
+T: 1" }
+node: { title: "N: 255
+T: 0" }
+node: { title: "N: 256
+T: 3" }
+node: { title: "N: 257
+T: 0" }
+node: { title: "N: 258
+T: 0" }
+node: { title: "N: 259
+T: 3" }
+node: { title: "N: 260
+T: 1" }
+node: { title: "N: 261
+T: 0" }
+node: { title: "N: 262
+T: 1" }
+node: { title: "N: 263
+T: 0" }
+node: { title: "N: 264
+T: 3" }
+node: { title: "N: 265
+T: 2" }
+node: { title: "N: 266
+T: 1" }
+node: { title: "N: 267
+T: 1" }
+node: { title: "N: 268
+T: 2" }
+node: { title: "N: 269
+T: 1" }
+node: { title: "N: 270
+T: 0" }
+node: { title: "N: 271
+T: 2" }
+node: { title: "N: 272
+T: 3" }
+node: { title: "N: 273
+T: 3" }
+node: { title: "N: 274
+T: 0" }
+node: { title: "N: 275
+T: 0" }
+node: { title: "N: 276
+T: 1" }
+node: { title: "N: 277
+T: 2" }
+node: { title: "N: 278
+T: 2" }
+node: { title: "N: 279
+T: 3" }
+node: { title: "N: 280
+T: 2" }
+node: { title: "N: 281
+T: 3" }
+node: { title: "N: 282
+T: 0" }
+node: { title: "N: 283
+T: 2" }
+node: { title: "N: 284
+T: 1" }
+node: { title: "N: 285
+T: 0" }
+node: { title: "N: 286
+T: 3" }
+node: { title: "N: 287
+T: 1" }
+node: { title: "N: 288
+T: 1" }
+node: { title: "N: 289
+T: 1" }
+node: { title: "N: 290
+T: 1" }
+node: { title: "N: 291
+T: 3" }
+node: { title: "N: 292
+T: 3" }
+node: { title: "N: 293
+T: 2" }
+node: { title: "N: 294
+T: 1" }
+node: { title: "N: 295
+T: 2" }
+node: { title: "N: 296
+T: 0" }
+node: { title: "N: 297
+T: 1" }
+node: { title: "N: 298
+T: 0" }
+node: { title: "N: 299
+T: 1" }
+edge: { source: "N: 14
+T: 3" target: "N: 11
+T: 0" }
+edge: { source: "N: 24
+T: 1" target: "N: 11
+T: 0" }
+edge: { source: "N: 29
+T: 3" target: "N: 25
+T: 2" }
+edge: { source: "N: 34
+T: 2" target: "N: 22
+T: 3" }
+edge: { source: "N: 40
+T: 0" target: "N: 18
+T: 2" }
+edge: { source: "N: 47
+T: 1" target: "N: 23
+T: 0" }
+edge: { source: "N: 49
+T: 2" target: "N: 3
+T: 1" }
+edge: { source: "N: 53
+T: 0" target: "N: 41
+T: 3" }
+edge: { source: "N: 54
+T: 2" target: "N: 17
+T: 0" }
+edge: { source: "N: 58
+T: 1" target: "N: 24
+T: 1" }
+edge: { source: "N: 59
+T: 3" target: "N: 49
+T: 2" }
+edge: { source: "N: 61
+T: 0" target: "N: 29
+T: 3" }
+edge: { source: "N: 63
+T: 1" target: "N: 16
+T: 2" }
+edge: { source: "N: 69
+T: 2" target: "N: 7
+T: 0" }
+edge: { source: "N: 72
+T: 0" target: "N: 15
+T: 1" }
+edge: { source: "N: 74
+T: 2" target: "N: 60
+T: 2" }
+edge: { source: "N: 74
+T: 2" target: "N: 72
+T: 0" }
+edge: { source: "N: 76
+T: 1" target: "N: 12
+T: 1" }
+edge: { source: "N: 77
+T: 0" target: "N: 10
+T: 2" }
+edge: { source: "N: 78
+T: 1" target: "N: 70
+T: 1" }
+edge: { source: "N: 81
+T: 2" target: "N: 28
+T: 2" }
+edge: { source: "N: 83
+T: 1" target: "N: 59
+T: 3" }
+edge: { source: "N: 83
+T: 1" target: "N: 79
+T: 1" }
+edge: { source: "N: 85
+T: 3" target: "N: 37
+T: 3" }
+edge: { source: "N: 85
+T: 3" target: "N: 57
+T: 2" }
+edge: { source: "N: 85
+T: 3" target: "N: 77
+T: 0" }
+edge: { source: "N: 89
+T: 3" target: "N: 3
+T: 1" }
+edge: { source: "N: 93
+T: 0" target: "N: 27
+T: 2" }
+edge: { source: "N: 97
+T: 1" target: "N: 25
+T: 2" }
+edge: { source: "N: 97
+T: 1" target: "N: 38
+T: 3" }
+edge: { source: "N: 102
+T: 3" target: "N: 55
+T: 1" }
+edge: { source: "N: 105
+T: 2" target: "N: 18
+T: 2" }
+edge: { source: "N: 108
+T: 1" target: "N: 57
+T: 2" }
+edge: { source: "N: 108
+T: 1" target: "N: 62
+T: 3" }
+edge: { source: "N: 111
+T: 3" target: "N: 110
+T: 1" }
+edge: { source: "N: 112
+T: 0" target: "N: 42
+T: 0" }
+edge: { source: "N: 113
+T: 3" target: "N: 54
+T: 2" }
+edge: { source: "N: 113
+T: 3" target: "N: 103
+T: 2" }
+edge: { source: "N: 114
+T: 3" target: "N: 105
+T: 2" }
+edge: { source: "N: 117
+T: 0" target: "N: 34
+T: 2" }
+edge: { source: "N: 117
+T: 0" target: "N: 111
+T: 3" }
+edge: { source: "N: 118
+T: 0" target: "N: 54
+T: 2" }
+edge: { source: "N: 120
+T: 0" target: "N: 36
+T: 2" }
+edge: { source: "N: 120
+T: 0" target: "N: 47
+T: 1" }
+edge: { source: "N: 120
+T: 0" target: "N: 86
+T: 1" }
+edge: { source: "N: 121
+T: 0" target: "N: 51
+T: 1" }
+edge: { source: "N: 122
+T: 0" target: "N: 20
+T: 0" }
+edge: { source: "N: 123
+T: 1" target: "N: 58
+T: 1" }
+edge: { source: "N: 123
+T: 1" target: "N: 103
+T: 2" }
+edge: { source: "N: 124
+T: 3" target: "N: 9
+T: 3" }
+edge: { source: "N: 125
+T: 3" target: "N: 24
+T: 1" }
+edge: { source: "N: 126
+T: 3" target: "N: 17
+T: 0" }
+edge: { source: "N: 126
+T: 3" target: "N: 29
+T: 3" }
+edge: { source: "N: 126
+T: 3" target: "N: 124
+T: 3" }
+edge: { source: "N: 127
+T: 2" target: "N: 86
+T: 1" }
+edge: { source: "N: 128
+T: 3" target: "N: 95
+T: 0" }
+edge: { source: "N: 129
+T: 0" target: "N: 124
+T: 3" }
+edge: { source: "N: 130
+T: 0" target: "N: 10
+T: 2" }
+edge: { source: "N: 130
+T: 0" target: "N: 112
+T: 0" }
+edge: { source: "N: 131
+T: 0" target: "N: 22
+T: 3" }
+edge: { source: "N: 131
+T: 0" target: "N: 117
+T: 0" }
+edge: { source: "N: 134
+T: 3" target: "N: 4
+T: 2" }
+edge: { source: "N: 137
+T: 0" target: "N: 30
+T: 1" }
+edge: { source: "N: 137
+T: 0" target: "N: 125
+T: 3" }
+edge: { source: "N: 138
+T: 3" target: "N: 109
+T: 0" }
+edge: { source: "N: 138
+T: 3" target: "N: 129
+T: 0" }
+edge: { source: "N: 140
+T: 1" target: "N: 93
+T: 0" }
+edge: { source: "N: 142
+T: 2" target: "N: 27
+T: 2" }
+edge: { source: "N: 142
+T: 2" target: "N: 32
+T: 0" }
+edge: { source: "N: 142
+T: 2" target: "N: 38
+T: 3" }
+edge: { source: "N: 147
+T: 3" target: "N: 14
+T: 3" }
+edge: { source: "N: 148
+T: 3" target: "N: 71
+T: 2" }
+edge: { source: "N: 148
+T: 3" target: "N: 90
+T: 2" }
+edge: { source: "N: 149
+T: 2" target: "N: 142
+T: 2" }
+edge: { source: "N: 152
+T: 2" target: "N: 117
+T: 0" }
+edge: { source: "N: 153
+T: 2" target: "N: 146
+T: 1" }
+edge: { source: "N: 154
+T: 0" target: "N: 118
+T: 0" }
+edge: { source: "N: 155
+T: 3" target: "N: 90
+T: 2" }
+edge: { source: "N: 156
+T: 2" target: "N: 4
+T: 2" }
+edge: { source: "N: 156
+T: 2" target: "N: 80
+T: 3" }
+edge: { source: "N: 156
+T: 2" target: "N: 96
+T: 1" }
+edge: { source: "N: 157
+T: 1" target: "N: 6
+T: 1" }
+edge: { source: "N: 160
+T: 3" target: "N: 69
+T: 2" }
+edge: { source: "N: 161
+T: 3" target: "N: 147
+T: 3" }
+edge: { source: "N: 163
+T: 3" target: "N: 1
+T: 3" }
+edge: { source: "N: 163
+T: 3" target: "N: 19
+T: 3" }
+edge: { source: "N: 163
+T: 3" target: "N: 114
+T: 3" }
+edge: { source: "N: 163
+T: 3" target: "N: 115
+T: 3" }
+edge: { source: "N: 164
+T: 1" target: "N: 21
+T: 1" }
+edge: { source: "N: 164
+T: 1" target: "N: 85
+T: 3" }
+edge: { source: "N: 165
+T: 0" target: "N: 56
+T: 1" }
+edge: { source: "N: 167
+T: 3" target: "N: 125
+T: 3" }
+edge: { source: "N: 168
+T: 3" target: "N: 76
+T: 1" }
+edge: { source: "N: 169
+T: 0" target: "N: 26
+T: 1" }
+edge: { source: "N: 169
+T: 0" target: "N: 60
+T: 2" }
+edge: { source: "N: 170
+T: 3" target: "N: 120
+T: 0" }
+edge: { source: "N: 171
+T: 2" target: "N: 5
+T: 2" }
+edge: { source: "N: 172
+T: 3" target: "N: 45
+T: 0" }
+edge: { source: "N: 172
+T: 3" target: "N: 88
+T: 3" }
+edge: { source: "N: 172
+T: 3" target: "N: 143
+T: 1" }
+edge: { source: "N: 173
+T: 2" target: "N: 101
+T: 2" }
+edge: { source: "N: 176
+T: 0" target: "N: 118
+T: 0" }
+edge: { source: "N: 178
+T: 0" target: "N: 53
+T: 0" }
+edge: { source: "N: 179
+T: 2" target: "N: 78
+T: 1" }
+edge: { source: "N: 179
+T: 2" target: "N: 156
+T: 2" }
+edge: { source: "N: 180
+T: 0" target: "N: 130
+T: 0" }
+edge: { source: "N: 180
+T: 0" target: "N: 176
+T: 0" }
+edge: { source: "N: 181
+T: 1" target: "N: 93
+T: 0" }
+edge: { source: "N: 184
+T: 3" target: "N: 122
+T: 0" }
+edge: { source: "N: 184
+T: 3" target: "N: 180
+T: 0" }
+edge: { source: "N: 185
+T: 2" target: "N: 136
+T: 2" }
+edge: { source: "N: 186
+T: 0" target: "N: 43
+T: 1" }
+edge: { source: "N: 187
+T: 0" target: "N: 137
+T: 0" }
+edge: { source: "N: 188
+T: 2" target: "N: 114
+T: 3" }
+edge: { source: "N: 188
+T: 2" target: "N: 168
+T: 3" }
+edge: { source: "N: 189
+T: 0" target: "N: 159
+T: 2" }
+edge: { source: "N: 190
+T: 2" target: "N: 107
+T: 1" }
+edge: { source: "N: 190
+T: 2" target: "N: 160
+T: 3" }
+edge: { source: "N: 191
+T: 0" target: "N: 55
+T: 1" }
+edge: { source: "N: 191
+T: 0" target: "N: 73
+T: 0" }
+edge: { source: "N: 191
+T: 0" target: "N: 158
+T: 3" }
+edge: { source: "N: 194
+T: 0" target: "N: 20
+T: 0" }
+edge: { source: "N: 194
+T: 0" target: "N: 21
+T: 1" }
+edge: { source: "N: 194
+T: 0" target: "N: 98
+T: 1" }
+edge: { source: "N: 194
+T: 0" target: "N: 106
+T: 0" }
+edge: { source: "N: 196
+T: 3" target: "N: 58
+T: 1" }
+edge: { source: "N: 196
+T: 3" target: "N: 91
+T: 1" }
+edge: { source: "N: 196
+T: 3" target: "N: 126
+T: 3" }
+edge: { source: "N: 197
+T: 0" target: "N: 30
+T: 1" }
+edge: { source: "N: 197
+T: 0" target: "N: 99
+T: 1" }
+edge: { source: "N: 198
+T: 3" target: "N: 41
+T: 3" }
+edge: { source: "N: 198
+T: 3" target: "N: 83
+T: 1" }
+edge: { source: "N: 198
+T: 3" target: "N: 119
+T: 1" }
+edge: { source: "N: 198
+T: 3" target: "N: 162
+T: 0" }
+edge: { source: "N: 198
+T: 3" target: "N: 187
+T: 0" }
+edge: { source: "N: 199
+T: 0" target: "N: 71
+T: 2" }
+edge: { source: "N: 199
+T: 0" target: "N: 87
+T: 3" }
+edge: { source: "N: 199
+T: 0" target: "N: 195
+T: 3" }
+edge: { source: "N: 201
+T: 0" target: "N: 75
+T: 0" }
+edge: { source: "N: 203
+T: 2" target: "N: 9
+T: 3" }
+edge: { source: "N: 203
+T: 2" target: "N: 102
+T: 3" }
+edge: { source: "N: 203
+T: 2" target: "N: 129
+T: 0" }
+edge: { source: "N: 204
+T: 1" target: "N: 31
+T: 2" }
+edge: { source: "N: 205
+T: 1" target: "N: 109
+T: 0" }
+edge: { source: "N: 205
+T: 1" target: "N: 188
+T: 2" }
+edge: { source: "N: 206
+T: 1" target: "N: 46
+T: 1" }
+edge: { source: "N: 208
+T: 1" target: "N: 34
+T: 2" }
+edge: { source: "N: 209
+T: 0" target: "N: 76
+T: 1" }
+edge: { source: "N: 210
+T: 0" target: "N: 110
+T: 1" }
+edge: { source: "N: 210
+T: 0" target: "N: 141
+T: 0" }
+edge: { source: "N: 210
+T: 0" target: "N: 185
+T: 2" }
+edge: { source: "N: 211
+T: 0" target: "N: 122
+T: 0" }
+edge: { source: "N: 211
+T: 0" target: "N: 128
+T: 3" }
+edge: { source: "N: 211
+T: 0" target: "N: 153
+T: 2" }
+edge: { source: "N: 211
+T: 0" target: "N: 164
+T: 1" }
+edge: { source: "N: 212
+T: 3" target: "N: 5
+T: 2" }
+edge: { source: "N: 212
+T: 3" target: "N: 75
+T: 0" }
+edge: { source: "N: 213
+T: 3" target: "N: 13
+T: 3" }
+edge: { source: "N: 213
+T: 3" target: "N: 155
+T: 3" }
+edge: { source: "N: 215
+T: 0" target: "N: 169
+T: 0" }
+edge: { source: "N: 215
+T: 0" target: "N: 178
+T: 0" }
+edge: { source: "N: 218
+T: 0" target: "N: 70
+T: 1" }
+edge: { source: "N: 219
+T: 2" target: "N: 204
+T: 1" }
+edge: { source: "N: 220
+T: 1" target: "N: 154
+T: 0" }
+edge: { source: "N: 220
+T: 1" target: "N: 187
+T: 0" }
+edge: { source: "N: 221
+T: 3" target: "N: 145
+T: 3" }
+edge: { source: "N: 222
+T: 1" target: "N: 98
+T: 1" }
+edge: { source: "N: 222
+T: 1" target: "N: 172
+T: 3" }
+edge: { source: "N: 222
+T: 1" target: "N: 184
+T: 3" }
+edge: { source: "N: 223
+T: 1" target: "N: 14
+T: 3" }
+edge: { source: "N: 225
+T: 0" target: "N: 8
+T: 1" }
+edge: { source: "N: 225
+T: 0" target: "N: 77
+T: 0" }
+edge: { source: "N: 225
+T: 0" target: "N: 136
+T: 2" }
+edge: { source: "N: 225
+T: 0" target: "N: 183
+T: 0" }
+edge: { source: "N: 225
+T: 0" target: "N: 213
+T: 3" }
+edge: { source: "N: 226
+T: 0" target: "N: 65
+T: 2" }
+edge: { source: "N: 227
+T: 3" target: "N: 224
+T: 1" }
+edge: { source: "N: 228
+T: 0" target: "N: 127
+T: 2" }
+edge: { source: "N: 229
+T: 3" target: "N: 223
+T: 1" }
+edge: { source: "N: 230
+T: 3" target: "N: 164
+T: 1" }
+edge: { source: "N: 231
+T: 0" target: "N: 143
+T: 1" }
+edge: { source: "N: 233
+T: 0" target: "N: 149
+T: 2" }
+edge: { source: "N: 234
+T: 3" target: "N: 121
+T: 0" }
+edge: { source: "N: 234
+T: 3" target: "N: 145
+T: 3" }
+edge: { source: "N: 234
+T: 3" target: "N: 206
+T: 1" }
+edge: { source: "N: 235
+T: 1" target: "N: 35
+T: 1" }
+edge: { source: "N: 236
+T: 1" target: "N: 68
+T: 3" }
+edge: { source: "N: 237
+T: 1" target: "N: 0
+T: 0" }
+edge: { source: "N: 237
+T: 1" target: "N: 132
+T: 2" }
+edge: { source: "N: 238
+T: 0" target: "N: 203
+T: 2" }
+edge: { source: "N: 239
+T: 0" target: "N: 81
+T: 2" }
+edge: { source: "N: 239
+T: 0" target: "N: 92
+T: 2" }
+edge: { source: "N: 241
+T: 0" target: "N: 120
+T: 0" }
+edge: { source: "N: 241
+T: 0" target: "N: 173
+T: 2" }
+edge: { source: "N: 242
+T: 3" target: "N: 45
+T: 0" }
+edge: { source: "N: 242
+T: 3" target: "N: 215
+T: 0" }
+edge: { source: "N: 243
+T: 3" target: "N: 80
+T: 3" }
+edge: { source: "N: 245
+T: 3" target: "N: 171
+T: 2" }
+edge: { source: "N: 246
+T: 1" target: "N: 2
+T: 3" }
+edge: { source: "N: 246
+T: 1" target: "N: 19
+T: 3" }
+edge: { source: "N: 246
+T: 1" target: "N: 154
+T: 0" }
+edge: { source: "N: 246
+T: 1" target: "N: 174
+T: 3" }
+edge: { source: "N: 247
+T: 3" target: "N: 31
+T: 2" }
+edge: { source: "N: 247
+T: 3" target: "N: 102
+T: 3" }
+edge: { source: "N: 247
+T: 3" target: "N: 169
+T: 0" }
+edge: { source: "N: 247
+T: 3" target: "N: 181
+T: 1" }
+edge: { source: "N: 247
+T: 3" target: "N: 245
+T: 3" }
+edge: { source: "N: 248
+T: 3" target: "N: 155
+T: 3" }
+edge: { source: "N: 250
+T: 2" target: "N: 209
+T: 0" }
+edge: { source: "N: 252
+T: 1" target: "N: 49
+T: 2" }
+edge: { source: "N: 254
+T: 1" target: "N: 2
+T: 3" }
+edge: { source: "N: 254
+T: 1" target: "N: 182
+T: 0" }
+edge: { source: "N: 255
+T: 0" target: "N: 144
+T: 0" }
+edge: { source: "N: 257
+T: 0" target: "N: 149
+T: 2" }
+edge: { source: "N: 258
+T: 0" target: "N: 64
+T: 1" }
+edge: { source: "N: 258
+T: 0" target: "N: 78
+T: 1" }
+edge: { source: "N: 258
+T: 0" target: "N: 201
+T: 0" }
+edge: { source: "N: 259
+T: 3" target: "N: 13
+T: 3" }
+edge: { source: "N: 259
+T: 3" target: "N: 59
+T: 3" }
+edge: { source: "N: 259
+T: 3" target: "N: 112
+T: 0" }
+edge: { source: "N: 260
+T: 1" target: "N: 12
+T: 1" }
+edge: { source: "N: 260
+T: 1" target: "N: 108
+T: 1" }
+edge: { source: "N: 260
+T: 1" target: "N: 139
+T: 1" }
+edge: { source: "N: 260
+T: 1" target: "N: 176
+T: 0" }
+edge: { source: "N: 261
+T: 0" target: "N: 91
+T: 1" }
+edge: { source: "N: 261
+T: 0" target: "N: 152
+T: 2" }
+edge: { source: "N: 261
+T: 0" target: "N: 156
+T: 2" }
+edge: { source: "N: 261
+T: 0" target: "N: 226
+T: 0" }
+edge: { source: "N: 262
+T: 1" target: "N: 68
+T: 3" }
+edge: { source: "N: 262
+T: 1" target: "N: 96
+T: 1" }
+edge: { source: "N: 262
+T: 1" target: "N: 199
+T: 0" }
+edge: { source: "N: 263
+T: 0" target: "N: 189
+T: 0" }
+edge: { source: "N: 263
+T: 0" target: "N: 214
+T: 3" }
+edge: { source: "N: 264
+T: 3" target: "N: 245
+T: 3" }
+edge: { source: "N: 265
+T: 2" target: "N: 1
+T: 3" }
+edge: { source: "N: 265
+T: 2" target: "N: 62
+T: 3" }
+edge: { source: "N: 265
+T: 2" target: "N: 127
+T: 2" }
+edge: { source: "N: 265
+T: 2" target: "N: 217
+T: 3" }
+edge: { source: "N: 266
+T: 1" target: "N: 147
+T: 3" }
+edge: { source: "N: 268
+T: 2" target: "N: 212
+T: 3" }
+edge: { source: "N: 270
+T: 0" target: "N: 121
+T: 0" }
+edge: { source: "N: 270
+T: 0" target: "N: 238
+T: 0" }
+edge: { source: "N: 271
+T: 2" target: "N: 163
+T: 3" }
+edge: { source: "N: 271
+T: 2" target: "N: 209
+T: 0" }
+edge: { source: "N: 271
+T: 2" target: "N: 242
+T: 3" }
+edge: { source: "N: 271
+T: 2" target: "N: 265
+T: 2" }
+edge: { source: "N: 272
+T: 3" target: "N: 115
+T: 3" }
+edge: { source: "N: 273
+T: 3" target: "N: 64
+T: 1" }
+edge: { source: "N: 273
+T: 3" target: "N: 220
+T: 1" }
+edge: { source: "N: 274
+T: 0" target: "N: 36
+T: 2" }
+edge: { source: "N: 274
+T: 0" target: "N: 185
+T: 2" }
+edge: { source: "N: 275
+T: 0" target: "N: 63
+T: 1" }
+edge: { source: "N: 275
+T: 0" target: "N: 188
+T: 2" }
+edge: { source: "N: 276
+T: 1" target: "N: 230
+T: 3" }
+edge: { source: "N: 277
+T: 2" target: "N: 123
+T: 1" }
+edge: { source: "N: 279
+T: 3" target: "N: 212
+T: 3" }
+edge: { source: "N: 280
+T: 2" target: "N: 51
+T: 1" }
+edge: { source: "N: 280
+T: 2" target: "N: 269
+T: 1" }
+edge: { source: "N: 281
+T: 3" target: "N: 128
+T: 3" }
+edge: { source: "N: 282
+T: 0" target: "N: 26
+T: 1" }
+edge: { source: "N: 283
+T: 2" target: "N: 95
+T: 0" }
+edge: { source: "N: 283
+T: 2" target: "N: 189
+T: 0" }
+edge: { source: "N: 284
+T: 1" target: "N: 165
+T: 0" }
+edge: { source: "N: 284
+T: 1" target: "N: 168
+T: 3" }
+edge: { source: "N: 285
+T: 0" target: "N: 144
+T: 0" }
+edge: { source: "N: 285
+T: 0" target: "N: 227
+T: 3" }
+edge: { source: "N: 286
+T: 3" target: "N: 178
+T: 0" }
+edge: { source: "N: 286
+T: 3" target: "N: 223
+T: 1" }
+edge: { source: "N: 288
+T: 1" target: "N: 100
+T: 0" }
+edge: { source: "N: 289
+T: 1" target: "N: 28
+T: 2" }
+edge: { source: "N: 289
+T: 1" target: "N: 249
+T: 3" }
+edge: { source: "N: 290
+T: 1" target: "N: 101
+T: 2" }
+edge: { source: "N: 290
+T: 1" target: "N: 132
+T: 2" }
+edge: { source: "N: 290
+T: 1" target: "N: 233
+T: 0" }
+edge: { source: "N: 291
+T: 3" target: "N: 23
+T: 0" }
+edge: { source: "N: 291
+T: 3" target: "N: 73
+T: 0" }
+edge: { source: "N: 291
+T: 3" target: "N: 119
+T: 1" }
+edge: { source: "N: 291
+T: 3" target: "N: 138
+T: 3" }
+edge: { source: "N: 292
+T: 3" target: "N: 165
+T: 0" }
+edge: { source: "N: 292
+T: 3" target: "N: 200
+T: 1" }
+edge: { source: "N: 293
+T: 2" target: "N: 42
+T: 0" }
+edge: { source: "N: 293
+T: 2" target: "N: 99
+T: 1" }
+edge: { source: "N: 293
+T: 2" target: "N: 166
+T: 2" }
+edge: { source: "N: 293
+T: 2" target: "N: 216
+T: 0" }
+edge: { source: "N: 293
+T: 2" target: "N: 287
+T: 1" }
+edge: { source: "N: 294
+T: 1" target: "N: 108
+T: 1" }
+edge: { source: "N: 294
+T: 1" target: "N: 195
+T: 3" }
+edge: { source: "N: 294
+T: 1" target: "N: 206
+T: 1" }
+edge: { source: "N: 295
+T: 2" target: "N: 40
+T: 0" }
+edge: { source: "N: 295
+T: 2" target: "N: 43
+T: 1" }
+edge: { source: "N: 295
+T: 2" target: "N: 50
+T: 0" }
+edge: { source: "N: 295
+T: 2" target: "N: 182
+T: 0" }
+edge: { source: "N: 295
+T: 2" target: "N: 262
+T: 1" }
+edge: { source: "N: 296
+T: 0" target: "N: 48
+T: 1" }
+edge: { source: "N: 296
+T: 0" target: "N: 229
+T: 3" }
+edge: { source: "N: 297
+T: 1" target: "N: 6
+T: 1" }
+edge: { source: "N: 297
+T: 1" target: "N: 250
+T: 2" }
+edge: { source: "N: 298
+T: 0" target: "N: 259
+T: 3" }
+edge: { source: "N: 299
+T: 1" target: "N: 107
+T: 1" }
+edge: { source: "N: 299
+T: 1" target: "N: 249
+T: 3" }
+}
